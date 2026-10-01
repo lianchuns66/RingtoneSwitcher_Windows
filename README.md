@@ -23,3 +23,6 @@ The perfect file transfer partner for Windows desktops and laptops!
 To connect and transfer data with your phone, you need to use the mobile version of "RingtoneSwitcher"<BR>
 Download now (Google Play)<BR>
 https://play.google.com/store/apps/details?id=anchun.li.ringtoneswitcher
+
+Download for Windows:<BR>
+https://github.com/lianchuns66/RingtoneSwitcher_Windows/releases/latest/download/RingtoneSwitcher.Windows.exe
